@@ -27,7 +27,7 @@ Disponible en el [Repositorio Institucional de la Universidad Nacional de Colomb
 
 ---
 
-## Ejecución 🚀
+## Ejecución 
 
 1. Clonar el repositorio:
 
@@ -47,7 +47,7 @@ Disponible en el [Repositorio Institucional de la Universidad Nacional de Colomb
 
 ---
 
-## Objetivo 🎯
+## Objetivo 
 
 Este proyecto busca ser un **apoyo académico** que complemente la teoría del electromagnetismo, haciendo más accesible su aprendizaje mediante la simulación y la experimentación computacional.
 
